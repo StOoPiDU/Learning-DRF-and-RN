@@ -22,7 +22,7 @@ cd backend
 python manage.py runserver
 
 
-> RN commands (maybe you can skip 1-4?):
+> RN commands (might be able to skip some?):
 
 npm install -g expo-cli
 
