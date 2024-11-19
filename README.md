@@ -11,7 +11,7 @@ This houses a simple serializer, model, view and url page. Some edits to the set
 
 Then I make a simple React Native setup using expo and link the API_URL to DRF (to do this, I just simply made it accept all cors connections > "CORS_ALLOW_ALL_ORIGINS = True"). I made a simple react component for the list on React Native (again lot of simple boilerplate stuff). I only tested in web, in case that was wondered.
 
-DRF commands:
+> DRF commands: 
 
 python -m venv env
 
@@ -22,7 +22,7 @@ cd backend
 python manage.py runserver
 
 
-RN commands (maybe you can skip 1-4?):
+> RN commands (maybe you can skip 1-4?):
 
 npm install -g expo-cli
 
