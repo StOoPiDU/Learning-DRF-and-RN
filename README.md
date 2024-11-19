@@ -17,11 +17,16 @@ python -m venv env
 
 env\Scripts\activate
 
+cd backend
+
 python manage.py runserver
+
 
 RN commands (maybe you can skip 1-4?):
 
 npm install -g expo-cli
+
+frontend cmd > expo start
 
 npm install axios @react-navigation/native @react-navigation/stack
 
